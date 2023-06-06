@@ -1,5 +1,4 @@
 import streamlit as st
-import requests
 from mlmodel import train_data, labels, num_classes
 import tensorflow as tf
 import numpy as np

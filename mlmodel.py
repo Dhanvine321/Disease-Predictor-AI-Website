@@ -2,7 +2,6 @@ import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-import os
 
 #PREPROCESSING DATA
 train_data = pd.read_csv('dataset/Training.csv')
