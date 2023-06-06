@@ -1,0 +1,39 @@
+#style the headers and subheaders
+
+
+h1 {
+
+     font-size: 50px;
+
+     color: #0047AB;
+
+     text-align: center;
+
+    padding-top:-10px;
+    padding-bottom:5px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+ }
+
+ h3 {
+
+     font-size: 28px;
+
+     color: #0064ab;
+
+     text-align: center;
+ }
+
+ 
+
+ h5 {
+
+     font-size: 18px;
+
+     color: #0047AB;
+
+     text-align: center;
+ }
+
+ 
+

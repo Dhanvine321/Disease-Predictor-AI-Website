@@ -1,0 +1,17 @@
+[theme]
+
+# The primary color is the accent for interactive elements
+primaryColor = "#E3963E"
+
+# The background color is used for the main content area
+backgroundColor = "#E5E4E2"
+
+# The secondary background color is used for the background of the buttons
+secondaryBackgroundColor = "#EADDCA"
+
+# The text color is used for the text on the buttons
+textColor = "#0047AB"
+
+# The font is used for all text
+font = "sans-serif"
+
